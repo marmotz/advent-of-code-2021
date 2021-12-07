@@ -1,8 +1,11 @@
 {
+  "scripts": {
+    "puzzle1": "ts-node puzzle1.ts",
+    "puzzle2": "ts-node puzzle2.ts"
+  },
   "devDependencies": {
     "@types/node": "^16.11.12",
     "ts-node": "^10.4.0",
     "typescript": "^4.5.2"
-  },
-  "dependencies": {}
+  }
 }
